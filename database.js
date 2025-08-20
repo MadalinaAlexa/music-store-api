@@ -1,3 +1,4 @@
+// chore: trigger commit after adding .gitignore
 const sqlite3 = require('sqlite3').verbose();
 const db = new sqlite3.Database('./musicstore.db');
 
